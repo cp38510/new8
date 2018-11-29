@@ -6,7 +6,7 @@
 <h1>Congratulations!</h1>
 <img src="boxfuse.png">
 
-<h2>I Love Kisa!!!!!!!!!!!!!!!!</h2>
+<h2>What does you mean???</h2>
 
 <h2>Simple test</h2>
 
